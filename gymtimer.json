@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gymtimer1",
+  "private_key_id": "200fc749efb88ee7ed3a7281674c90cd588bea2b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDAA09NiCpOe7Fo\nQ4th7OxjwAckCdIDyligr3T0P9LbhxJloO8c1Vutj8t86ZRe9H7+1OYAQ1WK8N5U\ngdFLuvpU6AyeyPibI3X0dr2w9AkCv9WCMAbAqmhJv6Y68SLXYjBvakntVDimFjYW\nposc6oVCnrl45M5ahwJi7DnmJxd8Bs+Vpi/pS76WjOjMs3UBh4k4Rt0ElwWjx8kJ\nA7X6QIFxNPrddYynOTmwL/dCZVTGsfP9wuus2bccZ7/6HqjRLInskCtj6I1QVHwP\n8J/YssXO7LIedqwpbs4vG6eNYt70AaDop8koCJadxKr+epFC+0oqmntl0c9JZX0a\nZSNZKPnXAgMBAAECggEAOAJ/JoGavawNMvnI9bazueEw9A09SsfClJS5y+m2Kz06\nW5TXSxTdmkJAvF4yXoR5awJVWSxLDq12XTZFBA81qIDL9aFwC2kLplTgvnZhDoFA\n2aoCvj63DxQtfDIM1MEamdVqXSVdJO2Dt5W7LKMoXieIuMAdhYCubIa12PH8QrwE\nCXEgQrVDinUQLQgy400bfQDagtpv0GoBo1ODZV8SI5l5mvY4WXEapARGdFh0fJpu\nT/aKSo7Qocw7sKQZ8pLWAcr4xllnK50qJVhGf1Sufa3zQOt6JPu5w+T2pxosPBbQ\n2KToM3LJQLVUklEDPhOqnpDI4ovDRB/9pzkV8qTuYQKBgQDx2++u6KbBo5RXeqyH\nD0KoO745NA3eYkaJXuwa2xXAQIeDFqUQjbrpm1KQwbjqictIEOoDkPnYlZ/JtdnI\nGpw4/mMGCdFrwfAsV2uzxrrrTGvE2Rz2zZmz+VpRgT7+B1t443baT2Ofp5eqGKwC\nrkl5z4PxOA3XmQn9L0tu1NyNpwKBgQDLPUr59Epu7O/T/nlmEoPjKvFyNDvuPPDd\nJAfZI1a87DoSrjC1vWw075W1/A+5/sfAm/45f9oYV3HnSJji7VLGk8XCEKn1eNqx\napOguRoEVtDHk4ud3UYS+G1TXkjEVKUE2UjdfIosQIeJriwBvoDRyRrb7YF4IChE\nkMsi9TOYUQKBgQCpv5B4tWccrx+VSk8+t7Iz+0JmSaeWNmmFTq7tpmict22kzsbp\nWGAgR1hqqtyLGE0pdl2YRS9mGJW+b7i7XhnZUonTmh52v/Y+WNkJo2hbbxaQYUWX\n3vOKwm7ml4zLpARKU3N+g4vLaUfkJU7MzuBY8xGKwqnMcOf24DPUROfLLwKBgFG+\n/YE7+RRUyMIEAOBFYjbk9uhwigpxCJBqBZ4Y0LJ8cX9CAOWYowVHuHfSQqEVEVMv\naznFavuPcIkOcjAUNM8acNh1y2aojY3+yBJFYWmNYbxkZCvC7ISE17RIoAwX36fr\nnZs4lHroGZwPKjQpY7b9pIgBJ6ohhRDPDGWrKm2BAoGBAOF9LhYmYvrZ6TnsvCTL\nJGwYCMOaQRAm0PDc/2baKbE7H8FvbbLHSFuOeDVnaI8OlY76HGrqUKzQPeHF1xDH\nR1ejYg8IUBKKbw8v3Fez0ePZlVAMpv/j4a+9extmlLJoW8k2rJRUJHtNxbpW7pam\nmSmQIbzneZcsQdEozVJL9T2U\n-----END PRIVATE KEY-----\n",
+  "client_email": "gym-266@gymtimer1.iam.gserviceaccount.com",
+  "client_id": "112637630258523096052",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gym-266%40gymtimer1.iam.gserviceaccount.com"
+}
